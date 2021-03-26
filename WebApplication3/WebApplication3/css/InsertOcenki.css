@@ -1,0 +1,15 @@
+﻿body {
+
+}
+.panel{
+
+    margin-left:40px;
+      float: left;
+}
+.panel2
+{
+    width:500px;
+    float: right;
+  
+border: 1px solid red;
+}

@@ -1,0 +1,42 @@
+﻿body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+header {
+    
+    background: #34495e;
+    width: 100%;
+    height: 70px;
+    /*background-image: url('../img/Education-header.jpg');*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    overflow: hidden;
+}
+
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 22px 16px;
+        text-decoration: none;
+        font-size: 22px;
+    }
+
+        /* Change the color of links on hover */
+        .topnav a:hover {
+            /*background-color: #ddd;*/
+            background-color: #4CAF50;
+            color: black;
+        }
+
+        /* Add a color to the active/current link */
+        .topnav a.active {
+            /*background-color: #4CAF50;
+  color: white;*/
+        }

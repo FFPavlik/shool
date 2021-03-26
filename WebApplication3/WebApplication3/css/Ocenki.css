@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.greed {
+    margin: auto;
+    border: 1px solid black;
+    width: 1200px;
+}
+
+.select {
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.zagolovok {
+    padding-top: 50px;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17pt;
+    color: black;
+}
+
+.td {
+    width: 100px;
+}

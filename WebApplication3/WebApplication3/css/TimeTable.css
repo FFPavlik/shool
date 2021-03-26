@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.Grid {
+    padding-top:50px;
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.Upload {
+     width: 400px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
